@@ -1,0 +1,138 @@
+[
+    {
+        "model": "goods.categories",
+        "pk": 13,
+        "fields": {
+            "name": "ЗАВТРАКИ",
+            "slug": "zavtraki"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 14,
+        "fields": {
+            "name": "ПОСТНОЕ МЕНЮ",
+            "slug": "postnoe-menyu"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 15,
+        "fields": {
+            "name": "ХОЛОДНЫЕ ЗАКУСКИ",
+            "slug": "holodnye-zakuski"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 16,
+        "fields": {
+            "name": "ГОРЯЧИЕ ЗАКУСКИ",
+            "slug": "goryachie-zakuski"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 17,
+        "fields": {
+            "name": "КИСЛОМОЛОЧНОЕ",
+            "slug": "kislomolochnoe"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 18,
+        "fields": {
+            "name": "САЛАТЫ",
+            "slug": "salaty"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 19,
+        "fields": {
+            "name": "ПЕРВЫЕ БЛЮДА",
+            "slug": "pervye-blyuda"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 20,
+        "fields": {
+            "name": "ВТОРЫЕ БЛЮДА",
+            "slug": "vtorye-blyuda"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 21,
+        "fields": {
+            "name": "ГАРНИРЫ",
+            "slug": "garniry"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 22,
+        "fields": {
+            "name": "ШАШЛЫКИ",
+            "slug": "shashlyki"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 23,
+        "fields": {
+            "name": "ХЛЕБ",
+            "slug": "hleb"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 24,
+        "fields": {
+            "name": "ДЕСЕРТЫ",
+            "slug": "deserty"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 25,
+        "fields": {
+            "name": "НАПИТКИ",
+            "slug": "napitki"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 26,
+        "fields": {
+            "name": "ФРУКТЫ",
+            "slug": "frukty"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 27,
+        "fields": {
+            "name": "СОУСЫ",
+            "slug": "sousy"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 28,
+        "fields": {
+            "name": "БЛЮДА НА ЗАКАЗ",
+            "slug": "blyuda-na-zakaz"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 29,
+        "fields": {
+            "name": "все",
+            "slug": "all"
+        }
+    }
+]

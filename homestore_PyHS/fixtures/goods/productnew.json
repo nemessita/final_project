@@ -1,0 +1,982 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 15,
+        "fields": {
+            "name": "Блинчики 2 шт",
+            "slug": "blinchiki-2-sht",
+            "description": "",
+            "image": "goods_images/3.jpeg",
+            "price": "120.00",
+            "discount": "0.00",
+            "quantity": 93,
+            "category": 13
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 16,
+        "fields": {
+            "name": "Сырники",
+            "slug": "syrniki",
+            "description": "",
+            "image": "goods_images/4.jpeg",
+            "price": "250.00",
+            "discount": "10.00",
+            "quantity": 93,
+            "category": 13
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 17,
+        "fields": {
+            "name": "блинчики с медом",
+            "slug": "blinchiki-s-medom",
+            "description": "",
+            "image": "goods_images/5.jpeg",
+            "price": "270.00",
+            "discount": "0.00",
+            "quantity": 94,
+            "category": 13
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 18,
+        "fields": {
+            "name": "Кюкю из зелени",
+            "slug": "kyukyu-iz-zeleni",
+            "description": "",
+            "image": "goods_images/dscf1073_-jpg.23-06-2013-02-24-56.jpg",
+            "price": "280.00",
+            "discount": "50.00",
+            "quantity": 96,
+            "category": 13
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 19,
+        "fields": {
+            "name": "омлет с беконом",
+            "slug": "omlet-s-bekonom",
+            "description": "",
+            "image": "goods_images/1364dede135c9c18a221fac685788ff8.jpg",
+            "price": "300.00",
+            "discount": "10.00",
+            "quantity": 97,
+            "category": 13
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 20,
+        "fields": {
+            "name": "омлет с молоком",
+            "slug": "omlet-s-molokom",
+            "description": "",
+            "image": "goods_images/4.jpg",
+            "price": "200.00",
+            "discount": "0.00",
+            "quantity": 97,
+            "category": 13
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 21,
+        "fields": {
+            "name": "АССОРТИ ИЗ МАРИНАДОВ",
+            "slug": "assorti-iz-marinadov",
+            "description": "",
+            "image": "goods_images/Buket-Marinad-po-Domashnemu.jpg",
+            "price": "500.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 15
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 22,
+        "fields": {
+            "name": "АССОРТИ МЯСНОЕ",
+            "slug": "assorti-myasnoe",
+            "description": "",
+            "image": "goods_images/norm751.jpg",
+            "price": "2000.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 15
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 23,
+        "fields": {
+            "name": "АССОРТИ РЫБНОЕ",
+            "slug": "assorti-rybnoe",
+            "description": "",
+            "image": "goods_images/ribnoe_assorti-409971.jpg",
+            "price": "3710.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 15
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 24,
+        "fields": {
+            "name": "БАКЛАЖАНЫ С ОРЕХОВОЙ НАЧИНКОЙ",
+            "slug": "baklazhany-s-orehovoj-nachinkoj",
+            "description": "",
+            "image": "goods_images/baklazan.jpg",
+            "price": "500.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 15
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 25,
+        "fields": {
+            "name": "БАСТУРМА",
+            "slug": "basturma",
+            "description": "",
+            "image": "goods_images/big_12980.jpg",
+            "price": "500.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 15
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 26,
+        "fields": {
+            "name": "КУРИНЫЙ РУЛЕТ",
+            "slug": "kurinyj-rulet",
+            "description": "",
+            "image": "goods_images/big_222239.jpg",
+            "price": "450.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 15
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 27,
+        "fields": {
+            "name": "БЛИНЧИКИ С ИКРОЙ 2 ШТ",
+            "slug": "blinchiki-s-ikroj-2-sht",
+            "description": "",
+            "image": "goods_images/orig_15114_0_xxl.jpg",
+            "price": "710.00",
+            "discount": "0.00",
+            "quantity": 8,
+            "category": 16
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 28,
+        "fields": {
+            "name": "БЛИНЧИКИ С МЕДОМ 2 ШТ",
+            "slug": "blinchiki-s-medom-2-sht",
+            "description": "",
+            "image": "goods_images/00109981.jpg",
+            "price": "220.00",
+            "discount": "0.00",
+            "quantity": 8,
+            "category": 16
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 29,
+        "fields": {
+            "name": "ЖУЛЬЕН ГРИБНОЙ",
+            "slug": "zhulen-gribnoj",
+            "description": "",
+            "image": "goods_images/7.jpg",
+            "price": "330.00",
+            "discount": "0.00",
+            "quantity": 8,
+            "category": 16
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 30,
+        "fields": {
+            "name": "КРЕВЕТКИ ОТВАРНЫЕ",
+            "slug": "krevetki-otvarnye",
+            "description": "",
+            "image": "goods_images/krevetki-otvarnye-k-pivu-600x600.jpg",
+            "price": "880.00",
+            "discount": "0.00",
+            "quantity": 9,
+            "category": 16
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 31,
+        "fields": {
+            "name": "КУТАБ С МЯСОМ 1 шт",
+            "slug": "kutab-s-myasom-1-sht",
+            "description": "",
+            "image": "goods_images/kutab_s_myasom.jpg",
+            "price": "280.00",
+            "discount": "0.00",
+            "quantity": 9,
+            "category": 16
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 32,
+        "fields": {
+            "name": "КЮКЮ ИЗ ЗЕЛЕН",
+            "slug": "kyukyu-iz-zelen",
+            "description": "",
+            "image": "goods_images/Кюкю_из_зелени.jpg",
+            "price": "270.00",
+            "discount": "0.00",
+            "quantity": 8,
+            "category": 16
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 33,
+        "fields": {
+            "name": "КЮКЮ ИЗ ЗЕЛЕНИ острый",
+            "slug": "kyukyu-iz-zeleni-ostryj",
+            "description": "",
+            "image": "goods_images/p_O.jpg",
+            "price": "270.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 17
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 34,
+        "fields": {
+            "name": "АССОРТИ ЕВРОПЕЙСКИХ СЫРОВ",
+            "slug": "assorti-evropejskih-syrov",
+            "description": "",
+            "image": "goods_images/assorti-evr-syrov-e1618614870385.jpg",
+            "price": "1980.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 17
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 35,
+        "fields": {
+            "name": "ДОВГА 0,2 Л",
+            "slug": "dovga-02-l",
+            "description": "",
+            "image": "goods_images/big_265681.jpg",
+            "price": "290.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 17
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 36,
+        "fields": {
+            "name": "МАСЛО СЛИВОЧНОЕ",
+            "slug": "maslo-slivochnoe",
+            "description": "",
+            "image": "goods_images/5db1e335c8e22bd1ceb6a16e99480856_1.jpg",
+            "price": "160.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 17
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 37,
+        "fields": {
+            "name": "МАЦОНИ ПО-ДОМАШНЕМУ",
+            "slug": "maconi-po-domashnemu",
+            "description": "",
+            "image": "goods_images/22002064_1.jpg",
+            "price": "270.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 17
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 38,
+        "fields": {
+            "name": "ОВДУХ 1/250",
+            "slug": "ovduh-1250",
+            "description": "",
+            "image": "goods_images/4743_middle.jpg",
+            "price": "290.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 17
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 39,
+        "fields": {
+            "name": "СЫР БРЫНЗА",
+            "slug": "syr-brynza",
+            "description": "",
+            "image": "goods_images/b15120ef-0a05-4be1-abb8-0f79e3671c6c.webp",
+            "price": "420.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 17
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 40,
+        "fields": {
+            "name": "САЛАТ \"АНГЛИЙСКИЙ\"",
+            "slug": "salat-anglijskij",
+            "description": "",
+            "image": "goods_images/maxresdefault.jpg",
+            "price": "530.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 18
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 41,
+        "fields": {
+            "name": "САЛАТ \"БЫЧЬЕ СЕРДЦЕ\"",
+            "slug": "salat-byche-serdce",
+            "description": "",
+            "image": "goods_images/8bd0a315-bad8-4e48-bc92-55201d1527d4.webp",
+            "price": "690.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 18
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 42,
+        "fields": {
+            "name": "САЛАТ \"ГРЕЧЕСКИЙ\"",
+            "slug": "salat-grecheskij",
+            "description": "",
+            "image": "goods_images/p_O_1.jpg",
+            "price": "610.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 18
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 43,
+        "fields": {
+            "name": "САЛАТ \"РУККОЛА С КРЕВЕТКАМИ\"",
+            "slug": "salat-rukkola-s-krevetkami",
+            "description": "",
+            "image": "goods_images/p_O_2.jpg",
+            "price": "830.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 18
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 44,
+        "fields": {
+            "name": "САЛАТ \"КАПРЕЗЕ\"",
+            "slug": "salat-kapreze",
+            "description": "",
+            "image": "goods_images/salatkaprezeklassicheskij092018023131pm-730x474.webp",
+            "price": "610.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 18
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 45,
+        "fields": {
+            "name": "САЛАТ \"ЛЕТНИЙ\"",
+            "slug": "salat-letnij",
+            "description": "",
+            "image": "goods_images/27bff3_780x.webp",
+            "price": "500.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 18
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 46,
+        "fields": {
+            "name": "СУП-ПЮРЕ ИЗ ЧЕЧЕВИЦЫ ПО-ТУРЕЦКИ",
+            "slug": "sup-pyure-iz-chechevicy-po-turecki",
+            "description": "",
+            "image": "goods_images/tureckij-sup-iz-chechevicy-10.jpg",
+            "price": "340.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 19
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 47,
+        "fields": {
+            "name": "БОРЩ С МЯСОМ И СМЕТАНОЙ",
+            "slug": "borsh-s-myasom-i-smetanoj",
+            "description": "",
+            "image": "goods_images/Без_названия.jpeg",
+            "price": "400.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 19
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 48,
+        "fields": {
+            "name": "ДЮШБАРА",
+            "slug": "dyushbara",
+            "description": "",
+            "image": "goods_images/1abe6ac1-73a7-11ec-bb93-00155d00fb0d_1.jpg",
+            "price": "410.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 19
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 49,
+        "fields": {
+            "name": "КЮФТА-БОЗБАШ",
+            "slug": "kyufta-bozbash",
+            "description": "",
+            "image": "goods_images/maxresdefault_1.jpg",
+            "price": "530.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 19
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 50,
+        "fields": {
+            "name": "СОЛЯНКА СБОРНАЯ МЯСНАЯ",
+            "slug": "solyanka-sbornaya-myasnaya",
+            "description": "",
+            "image": "goods_images/soup-solyanka-2000x1200.jpg",
+            "price": "360.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 19
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 51,
+        "fields": {
+            "name": "СУП ИЗ ЧЕЧЕВИЦЫ И ЛОБИО",
+            "slug": "sup-iz-chechevicy-i-lobio",
+            "description": "",
+            "image": "goods_images/Без_названия_1.jpeg",
+            "price": "390.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 19
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 52,
+        "fields": {
+            "name": "САДЖ ИЗ ТЕЛЯТИНЫ",
+            "slug": "sadzh-iz-telyatiny",
+            "description": "",
+            "image": "goods_images/sadj-iz-telytiny.jpg",
+            "price": "2420.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 20
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 53,
+        "fields": {
+            "name": "СЕМГА ПО-ЦАРСКИ",
+            "slug": "semga-po-carski",
+            "description": "",
+            "image": "goods_images/Без_названия_2.jpeg",
+            "price": "1600.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 20
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 54,
+        "fields": {
+            "name": "НАР КОВУРМА ИЗ ТЕЛ.ГРУДИНКИ",
+            "slug": "nar-kovurma-iz-telgrudinki",
+            "description": "",
+            "image": "goods_images/418732289_106_-1_1824_1080_1920x0_80_0_0_0364c1946fd8a9a0ffada536ec968a2a.jpg",
+            "price": "770.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 20
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 55,
+        "fields": {
+            "name": "АДЖАПСАНДАЛ",
+            "slug": "adzhapsandal",
+            "description": "",
+            "image": "goods_images/22764-ed4_wide.jpg",
+            "price": "800.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 20
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 56,
+        "fields": {
+            "name": "ВЫРЕЗКА ПО-ЦАРСКИ",
+            "slug": "vyrezka-po-carski",
+            "description": "",
+            "image": "goods_images/fbd82c4d1bfdf0b6f3005cf2ea1da773.jpg",
+            "price": "840.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 20
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 57,
+        "fields": {
+            "name": "ГОЛУБЦЫ",
+            "slug": "golubcy",
+            "description": "",
+            "image": "goods_images/p_O_3.jpg",
+            "price": "540.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 20
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 58,
+        "fields": {
+            "name": "ГРЕЧКА ОТВАРНАЯ",
+            "slug": "grechka-otvarnaya",
+            "description": "",
+            "image": "goods_images/Гречка.jpeg",
+            "price": "180.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 21
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 59,
+        "fields": {
+            "name": "КАРТОФЕЛЬ ЖАРЕНЫЙ",
+            "slug": "kartofel-zharenyj",
+            "description": "",
+            "image": "goods_images/big_530569.jpg",
+            "price": "200.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 21
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 60,
+        "fields": {
+            "name": "КАРТОФЕЛЬ ОТВАРНОЙ",
+            "slug": "kartofel-otvarnoj",
+            "description": "",
+            "image": "goods_images/u-dd8a2a40df02dd5d3cdd0ff69bc2fb11.jpg",
+            "price": "180.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 21
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 61,
+        "fields": {
+            "name": "КАРТОФЕЛЬ ПЮРЕ",
+            "slug": "kartofel-pyure",
+            "description": "",
+            "image": "goods_images/p_O_4.jpg",
+            "price": "180.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 21
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 62,
+        "fields": {
+            "name": "КАРТОФЕЛЬ ФРИ",
+            "slug": "kartofel-fri",
+            "description": "",
+            "image": "goods_images/kartoshka-fried-kak-v-mcdonalds.jpg",
+            "price": "200.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 21
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 63,
+        "fields": {
+            "name": "РИС ЖЕЛТЫЙ",
+            "slug": "ris-zheltyj",
+            "description": "",
+            "image": "goods_images/60a8a58d5665bf2d926ad6599d343321-resize_crop_1Xquality_100Xallow_enlarge_0X_jUHjOaD.jpg",
+            "price": "200.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 21
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 64,
+        "fields": {
+            "name": "КРЕВЕТКИ БАБОЧКИ",
+            "slug": "krevetki-babochki",
+            "description": "",
+            "image": "goods_images/unnamed.jpg",
+            "price": "1320.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 22
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 65,
+        "fields": {
+            "name": "ВЫМЯ",
+            "slug": "vymya",
+            "description": "",
+            "image": "goods_images/220px-2016_0919_Lunch_at_Long_Koi_Lap_Khom_01.jpg",
+            "price": "750.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 22
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 66,
+        "fields": {
+            "name": "ДЖУДЖА КЕБАБ ИЗ КУРИЦЫ",
+            "slug": "dzhudzha-kebab-iz-kuricy",
+            "description": "",
+            "image": "goods_images/p_O_5.jpg",
+            "price": "640.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 22
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 67,
+        "fields": {
+            "name": "КАРП ЖАРЕНЫЙ НА ВЕРТЕЛЕ",
+            "slug": "karp-zharenyj-na-vertele",
+            "description": "",
+            "image": "goods_images/orig_28973_0_xxl.jpg",
+            "price": "540.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 22
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 68,
+        "fields": {
+            "name": "КОТЛЕТЫ ИЗ ТЕЛЯТИНЫ НА МАНГАЛЕ",
+            "slug": "kotlety-iz-telyatiny-na-mangale",
+            "description": "",
+            "image": "goods_images/kotleti_na_mangale-582289.jpeg",
+            "price": "580.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 22
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 69,
+        "fields": {
+            "name": "КОТЛЕТЫ КУРИНЫЕ НА МАНГАЛЕ",
+            "slug": "kotlety-kurinye-na-mangale",
+            "description": "",
+            "image": "goods_images/1605369_73581-710x550x.jpg",
+            "price": "500.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 22
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 70,
+        "fields": {
+            "name": "ЛАВАШ",
+            "slug": "lavash",
+            "description": "",
+            "image": "goods_images/df1652c04c27f778bb3933667eba063e.png",
+            "price": "50.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 23
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 71,
+        "fields": {
+            "name": "ЛЕПЕШКА ПШЕНИЧНАЯ",
+            "slug": "lepeshka-pshenichnaya",
+            "description": "",
+            "image": "goods_images/big_131905.jpg",
+            "price": "60.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 23
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 72,
+        "fields": {
+            "name": "ХЛЕБ РЖАНОЙ",
+            "slug": "hleb-rzhanoj",
+            "description": "",
+            "image": "goods_images/8b32f5fc1674544796.jpg",
+            "price": "60.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 23
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 73,
+        "fields": {
+            "name": "ВАРЕНЬЕ ИЗ АБРИКОСА",
+            "slug": "varene-iz-abrikosa",
+            "description": "",
+            "image": "goods_images/b3161165.jpg",
+            "price": "550.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 24
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 74,
+        "fields": {
+            "name": "ВАРЕНЬЕ ИЗ АЙВЫ",
+            "slug": "varene-iz-ajvy",
+            "description": "",
+            "image": "goods_images/960m.jpg",
+            "price": "550.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 24
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 75,
+        "fields": {
+            "name": "ВАРЕНЬЕ ИЗ БЕЛОЙ ЧЕРЕШНИ",
+            "slug": "varene-iz-beloj-chereshni",
+            "description": "",
+            "image": "goods_images/640m.jpg",
+            "price": "550.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 24
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 76,
+        "fields": {
+            "name": "\"РЕД БУЛЛ\"",
+            "slug": "red-bull",
+            "description": "",
+            "image": "goods_images/66942.png",
+            "price": "180.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 25
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 77,
+        "fields": {
+            "name": "ВОДА МЕВЕР 0,5",
+            "slug": "voda-mever-05",
+            "description": "",
+            "image": "goods_images/e8240c2f2a9da35aab6f7821d81b2897.jpg",
+            "price": "270.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 25
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 78,
+        "fields": {
+            "name": "ВОДА РЫЧАЛ-СУ 0,5",
+            "slug": "voda-rychal-su-05",
+            "description": "",
+            "image": "goods_images/e5mg9mygwdi974i41qicx5rienxde1xd.jpg",
+            "price": "270.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 25
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 79,
+        "fields": {
+            "name": "АДЖИКА",
+            "slug": "adzhika",
+            "description": "",
+            "image": "goods_images/400_0_1661356413-3136.jpg",
+            "price": "80.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 27
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 80,
+        "fields": {
+            "name": "КЕТЧУП",
+            "slug": "ketchup",
+            "description": "",
+            "image": "goods_images/232397-homemade-ketchup-ddmfs-28-4x336-4x3.-c50701be22a742b9b0753b7b1ef84163.jpg",
+            "price": "80.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 27
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 81,
+        "fields": {
+            "name": "МАЙОНЕЗ",
+            "slug": "mayonez",
+            "description": "",
+            "image": "goods_images/6a8163319a39bbe4a0af361a0d4bb581.png",
+            "price": "80.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 27
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 82,
+        "fields": {
+            "name": "ГУСЬ ЗАПЕЧЕНЫЙ",
+            "slug": "gus-zapechenyj",
+            "description": "",
+            "image": "goods_images/3.jpg",
+            "price": "4750.00",
+            "discount": "0.00",
+            "quantity": 9,
+            "category": 28
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 83,
+        "fields": {
+            "name": "ПЛОВ ТУРШУ КОВУРМА",
+            "slug": "plov-turshu-kovurma",
+            "description": "",
+            "image": "goods_images/2.jpg",
+            "price": "640.00",
+            "discount": "0.00",
+            "quantity": 9,
+            "category": 28
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 84,
+        "fields": {
+            "name": "ПОРОСЕНОК ДУХОВОЙ",
+            "slug": "porosenok-duhovoj",
+            "description": "",
+            "image": "goods_images/1.jpg",
+            "price": "9350.00",
+            "discount": "0.00",
+            "quantity": 9,
+            "category": 28
+        }
+    }
+]
